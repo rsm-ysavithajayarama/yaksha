@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate on **ETL, Data Engineering, and AI-driven BI Projects**
 - 🤝 I’m open to new opportunities in **Data Engineering & AI**
 - 💬 Ask me about **ETL, Data Modeling, Data Pipelines, SQL, Python, and Cloud**
-- 📫 Reach me at **yakshasj1999@gmail.com**
+- 📫 Reach me at **ysavithajayarama@ucsd.edu**
 - ⚡ Fun fact **I transitioned from Mechanical Engineering to Data Engineering!** 🤯
 
 ---
@@ -33,6 +33,7 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=yakshasj&show_icons=true&theme=dark" alt="GitHub Stats" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakshasj&layout=donut)](https://github.com/yakshasj/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakshasj&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
