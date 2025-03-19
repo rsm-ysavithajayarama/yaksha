@@ -1,5 +1,3 @@
-# yaksha
-
 <h1 align="center">Hey there! 👋, I'm Yaksha </h1>
 <h3 align="center">A Data Engineer passionate about building scalable data solutions and leveraging AI for Business Intelligence</h3>
 <p align="center">
@@ -16,7 +14,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yakshasj" alt="Profile Views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rsm-ysavithajayarama" alt="Profile Views" /> </p>
 
 ## 🔥 About Me
 
@@ -41,15 +39,6 @@
 
 ## 🚀 My Projects
 - 👨‍💻 All of my projects are available **[here](https://github.com/rsm-ysavithajayarama?tab=repositories)**
-
----
-
-## 🏆 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#XYZ](https://github.com/) in [some-project](https://github.com/)
-2. 🎉 Merged PR [#ABC](https://github.com/) in [another-project](https://github.com/)
-<!--END_SECTION:activity-->
 
 ---
 
